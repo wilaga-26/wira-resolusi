@@ -1,6 +1,8 @@
 Rencana konten wira
 
 - video pembelajaran
+  *baru
+  *ikut
 - video edukasi
 - video cover
 - vlog
