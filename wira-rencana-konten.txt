@@ -7,5 +7,6 @@ Rencana konten wira
 - video edukasi
  *matematika
  *ipa
+ *ips
 - video cover
 - vlog
