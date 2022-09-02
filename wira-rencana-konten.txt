@@ -5,5 +5,7 @@ Rencana konten wira
   *ikut
 - kuaril
 - video edukasi
+  *mtk
+  *ipa
+  *b inggris
 - video cover
-- vlog
